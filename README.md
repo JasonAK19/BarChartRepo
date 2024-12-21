@@ -1,1 +1,2 @@
-# Creates chart based on frequency of words
+# Word count visualizer
+Creates chart based on frequency of words
